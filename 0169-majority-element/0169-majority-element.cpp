@@ -1,6 +1,7 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
+        //cnt kreneg +1 for ele -1 for diff ele and check point rhega cnt=0 pr, fir cnt krke dekhlenege vo wala ele > n/2 hai to answer ajayega
         int cnt=0;
         int ele;
         for(int i=0;i<nums.size();i++){
