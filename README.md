@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0268-missing-number](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0283-move-zeroes/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,8 +54,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0189-rotate-array/) | Medium |
+| [0268-missing-number](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0169-majority-element/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
