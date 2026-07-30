@@ -4,6 +4,8 @@ class Solution:
         l,r=0, len(height)-1
 
         while l<r:
+            #for l in range(len(height)):
+                #for  in range(l+1, len(height)):
             area = (r-l) * min(height[l],height[r])
             res = max(res, area)
 
@@ -12,4 +14,5 @@ class Solution:
             else:
                 r-=1
         return res
+
             
