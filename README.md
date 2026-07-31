@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0015-3sum/) | Medium |
+| [0031-next-permutation](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0031-next-permutation/) | Medium |
 | [0053-maximum-subarray](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0088-merge-sorted-array](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0015-3sum/) | Medium |
+| [0031-next-permutation](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0031-next-permutation/) | Medium |
 | [0088-merge-sorted-array](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0283-move-zeroes/) | Easy |
