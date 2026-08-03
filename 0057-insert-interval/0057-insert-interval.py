@@ -13,4 +13,5 @@ class Solution:
 
         res.append(newInterval)
         return res
+        #compare ist and last value of interval after that accordingly apply condition then process still not completed furhter check whether newly formed interval is non overlapping or not
         
