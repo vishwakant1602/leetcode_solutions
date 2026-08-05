@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0031-next-permutation/) | Medium |
 | [0053-maximum-subarray](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0057-insert-interval/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -89,5 +90,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
