@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0283-move-zeroes/) | Easy |
 ## Math
@@ -115,5 +116,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
