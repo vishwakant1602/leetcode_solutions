@@ -16,5 +16,6 @@ public:
             }
         }
         return left;
+        //simple binary search mid pr element found agr na mile to starting index jahan pr insert vo lower index se pta chlega mtlb left return krdenge
     }
 };
