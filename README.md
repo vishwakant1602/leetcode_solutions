@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0031-next-permutation/) | Medium |
+| [0035-search-insert-position](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0053-maximum-subarray/) | Medium |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0268-missing-number](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0704-binary-search/) | Easy |
 ## Bit Manipulation
