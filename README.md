@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0070-climbing-stairs](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0048-rotate-image/) | Medium |
+| [0070-climbing-stairs](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 ## Counting
@@ -134,4 +136,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0014-longest-common-prefix/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
