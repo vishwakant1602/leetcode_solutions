@@ -15,6 +15,23 @@ public:
         }
 
         return prev1;
-        
+//nth stair tak pahunchne ke liye:
+
+// n-1 se 1 step aa sakte ho
+// n-2 se 2 steps aa sakte ho
+
+// So:
+
+// ways(n) = ways(n-1) + ways(n-2)
+
+// Example n = 5:
+
+// ways(1) = 1
+// ways(2) = 2
+// ways(3) = 3
+// ways(4) = 5
+// ways(5) = 8
+
+// Answer = 8
     }
 };
