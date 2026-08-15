@@ -46,3 +46,4 @@ public:
         
     }
 };
+//simple bianry search lgraha hai ismaee bs thoda ulta hai spzce of search 
