@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
+| [0383-ransom-note](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0383-ransom-note/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0169-majority-element/) | Easy |
+| [0383-ransom-note](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0383-ransom-note/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -134,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0383-ransom-note](https://github.com/vishwakant1602/leetcode_solutions/tree/main/0383-ransom-note/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
